@@ -12,7 +12,7 @@ Entusiasta de tecnologia e programação. Buscando estágio.
 
 **stack**
 
-<img src="https://skillicons.dev/icons?i=py,js,html,css,java,mysql,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,html,css,java,mysql,git&theme=dark" />
 
 ---
 
