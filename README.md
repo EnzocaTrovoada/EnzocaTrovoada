@@ -15,7 +15,6 @@
     <li>🌐 <a href="https://zocahop.com">zocahop.com</a></li>
     <li>📧 <a href="mailto:enzocahop@gmail.com">enzocahop@gmail.com</a></li>
     <li>💼 <a href="https://www.linkedin.com/in/enzo-paulino-28a88a383/">LinkedIn</a></li>
-    <li>💬 <a href="https://discord.gg/JCh7ZBE8nZ">Discord</a></li>
   </ul>
 </td>
 <td align="center">
