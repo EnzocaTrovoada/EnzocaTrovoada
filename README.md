@@ -6,7 +6,7 @@
 <b>Sou o Enzo, mas também me chamam de Zoca~</b>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNveHU4aTdlaDZpODM3dzlpZnU0YTFidjlta3d2eGpubzkyZDJhMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/tyELXElL6wFj2/giphy.gif" width="45" />
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&pause=1000&color=888888&vCenter=true&width=700&height=20&lines=DEV+junior.+SI+na+UNIRIO+-+4o+periodo.;disponivel+pra+estagio.;junior+dev+looking+for+an+internship." />
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&pause=1000&color=888888&vCenter=true&width=700&height=20&lines=DEV+junior.+SI+na+UNIRIO+-+5o+periodo.;disponivel+pra+estagio.;junior+dev+looking+for+an+internship." />
 </td>
 </tr>
 <tr>
@@ -18,7 +18,7 @@
   </ul>
 </td>
 <td align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3emFtemZ0N2dyam14N2JzcmlxeWpmOTl1eGdxYTN1ejl5Y2JwMzVkbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jkmGk8pskum0WYqGQv/giphy.gif" width="450" />
+  <img src="https://in.pinterest.com/pin/34340015905250142/" width="450" />
 </td>
 </tr>
 <tr>
