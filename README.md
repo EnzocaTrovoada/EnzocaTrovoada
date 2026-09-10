@@ -18,7 +18,7 @@
   </ul>
 </td>
 <td align="center">
-  <img src="[https://in.pinterest.com/pin/34340015905250142/](https://i.pinimg.com/originals/a8/d9/05/a8d9050572f444af7ecb2163a8e719b2.gif)" width="450" />
+  <img src="https://i.pinimg.com/originals/a8/d9/05/a8d9050572f444af7ecb2163a8e719b2.gif" width="450" />
 </td>
 </tr>
 <tr>
