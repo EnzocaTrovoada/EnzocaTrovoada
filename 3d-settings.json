@@ -1,0 +1,20 @@
+{
+  "type": "normal",
+  "fileName": "profile-zoca.svg",
+  "backgroundColor": "#ffffff",
+  "foregroundColor": "#1a1a1a",
+  "strongColor": "#0a0a0a",
+  "weakColor": "#888888",
+  "radarColor": "#555555",
+  "growingAnimation": true,
+  "contribColors": ["#ebedf0", "#c0c0c0", "#8a8a8a", "#555555", "#1a1a1a"],
+  "darkMode": {
+    "type": "normal",
+    "backgroundColor": "#0a0a0a",
+    "foregroundColor": "#e0e0e0",
+    "strongColor": "#ffffff",
+    "weakColor": "#888888",
+    "radarColor": "#a0a0a0",
+    "contribColors": ["#161b22", "#3a3a3a", "#6b6b6b", "#a0a0a0", "#e0e0e0"]
+  }
+}
